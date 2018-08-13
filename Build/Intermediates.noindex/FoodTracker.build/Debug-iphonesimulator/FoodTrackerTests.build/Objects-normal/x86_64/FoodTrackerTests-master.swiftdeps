@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b5cfa2f552662e4d1bf7767bf1c57e3b"
+build_time: [1534078897, 334864000]
+inputs:
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift": [1534078897, 0]

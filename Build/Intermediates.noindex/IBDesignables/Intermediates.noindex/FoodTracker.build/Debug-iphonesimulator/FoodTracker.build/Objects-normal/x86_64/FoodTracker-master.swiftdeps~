@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "bf623eb96d101a1a7e52177ccefb8203"
+build_time: [1534180901, 705871000]
+inputs:
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/Meal.swift": [1534079316, 0]
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/MealViewController.swift": !private [1534180901, 0]
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/RatingControl.swift": [1534074534, 0]
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/AppDelegate.swift": [1533754272, 0]
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/MealTableViewController.swift": [1534180397, 0]
+  "/Users/Juli/Documents/Swift/FoodTracker/FoodTracker/MealTableViewCell.swift": [1534081215, 0]
